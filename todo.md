@@ -45,3 +45,14 @@
 - [x] Optimize images for web performance
 - [x] Test cross-browser compatibility
 - [x] Add meta tags for SEO
+
+
+## Marketplace Positioning Updates
+- [x] Update hero headline to include home maintenance (not just building)
+- [x] Revise value proposition to emphasize job bidding system
+- [x] Update "How It Works" to show job posting and bidding flow
+- [x] Add clear messaging for all 3 user types: homeowners, skilled labor, suppliers
+- [x] Update testimonials to include maintenance jobs (plumbing, electrical, repairs)
+- [x] Revise CTAs to reflect "Post a Job" and "Find Jobs" actions
+- [x] Update problem/solution section to include small-medium jobs
+- [x] Add visual examples of maintenance work (not just construction)
