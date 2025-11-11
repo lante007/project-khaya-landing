@@ -56,3 +56,12 @@
 - [x] Revise CTAs to reflect "Post a Job" and "Find Jobs" actions
 - [x] Update problem/solution section to include small-medium jobs
 - [x] Add visual examples of maintenance work (not just construction)
+
+
+## GitHub Export & Deployment
+- [ ] Verify responsive design on mobile, tablet, and desktop breakpoints
+- [ ] Test cross-browser compatibility (Chrome, Firefox, Safari, Edge)
+- [ ] Add viewport meta tags and ensure proper scaling
+- [ ] Create GitHub repository and push code
+- [ ] Generate README with setup instructions
+- [ ] Document deployment process
